@@ -1,0 +1,34 @@
+{
+ "region": "강원 삼척시 교동",
+ "nameEn": "Kangwon National University Samcheok Campus",
+ "added": "2026-10-17",
+ "rank": 59,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "KANGWON-DOGYE",
+   "campus": "강원대학교 도계캠퍼스",
+   "km": 26.0
+  },
+  {
+   "code": "CKU",
+   "campus": "가톨릭관동대학교",
+   "km": 40.5
+  },
+  {
+   "code": "KANGWON-GANGNEUNG",
+   "campus": "강원대학교 강릉캠퍼스",
+   "km": 43.6
+  },
+  {
+   "code": "SNU-PYEONGCHANG",
+   "campus": "서울대학교 평창캠퍼스",
+   "km": 64.5
+  },
+  {
+   "code": "DONGYANG",
+   "campus": "동양대학교",
+   "km": 84.4
+  }
+ ]
+}
